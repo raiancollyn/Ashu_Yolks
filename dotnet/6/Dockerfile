@@ -1,5 +1,5 @@
 ARG REPO=mcr.microsoft.com/dotnet/aspnet
-FROM $REPO:6.0.13-bullseye-slim
+FROM $REPO:6.0.27-bullseye-slim
 
 LABEL author="Ashu" maintainer="Matheusn.biolowons@gmail.com"
 
